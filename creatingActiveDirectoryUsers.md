@@ -1,6 +1,6 @@
 # Creating Active Directory Users 
 ### Before we get started: 
-Before we get started, I highly recommend checking out my other lab to create an on-premise lab so you can make a virtual machine and install Windows Server (2016-2022) on your current computer and practice Active Directory. The link to the lab would be right here!<br>
+Before we get started, I highly recommend checking out my other lab to create an on-premise lab so you can make a virtual machine and install Windows Server (2016-2022) on your current computer and practice Active Directory. The link to the lab would be [right here!](https://github.com/jvilla1901/OnPremiseLab/blob/main/README.md)<br>
 <br> Big shout-out to Server Academy, which is where I learn Active Directory. I have downloaded their presets of a domain, domain names, and users. Unfortunately, I cannot provide the presets. However, I am planning to make a tutorial on how to add thousands of fake Users and create domains so you can simulate working in a big organization with lots of employees. </br>
 ## Lab Walkthrough: 
 1. Open up Server Manager
