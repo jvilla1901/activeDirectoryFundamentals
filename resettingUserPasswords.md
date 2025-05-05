@@ -1,4 +1,4 @@
-# How to reset user passwords!
+# How to reset user passwords
 This is the easiest thing you will learn in this project.<br>
 
 I will use the same example as last time in the “creatingActiveDirectoryUsers” page, which uses “Paul Hill” accounts. Please select the new User that you have created.
