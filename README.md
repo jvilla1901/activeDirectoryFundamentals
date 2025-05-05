@@ -5,4 +5,4 @@ In this lab, I will cover the basics for day-to-day tasks in Active Directory, s
 1. [Creating Active Directory Users](https://github.com/jvilla1901/activeDirectoryFundamentals/blob/main/creatingActiveDirectoryUsers.md)
 2. [Resetting User Passwords](https://github.com/jvilla1901/activeDirectoryFundamentals/blob/main/resettingUserPasswords.md)
 3. [Creating and Deleting Organizational Units](https://github.com/jvilla1901/activeDirectoryFundamentals/blob/main/creatingAndDeletingOU.md)
-4. Deleting and Disabling Users *coming soon*
+4. [Deleting and Disabling Users](https://github.com/jvilla1901/activeDirectoryFundamentals/blob/main/deletingAndDisablingUsers.md)
